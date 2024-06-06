@@ -55,7 +55,7 @@
     - Estoy comprometido con el aprendizaje continuo y la mejora constante. Explorando nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el mundo del desarrollo de software.
    <br> 
 - 🚀 **Proyectos en GitHub:** 
-    - Mis proyectos más destacados se encuentran en mis repositorios de GitHub, donde trabajo en una variedad de proyectos que van desde aplicaciones web hasta soluciones de backend y scripts automatizados.
+    - Los proyectos que se encuentran en mis repositorios de GitHub, donde trabajo en una variedad de aspectos que van desde aplicaciones web hasta soluciones de backend y scripts automatizados, que subo ya sea para mostrar mi trabajo a la comunidad como para un seguimiento y organización personal.
     <br> 
 - 📫 **¡Conectemos!** 
     - Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. Si tenes alguna idea interesante o simplemente quieres charlar sobre tecnología.
