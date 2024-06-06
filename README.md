@@ -5,8 +5,8 @@
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
   </div>
-  <img src="https://komarev.com/ghpvc/?username=Hugoag03&color=blue" alt=""/>
-  <h1>¡Hola, soy Sebastián Compagnucci! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
+  <img src="[https://komarev.com/](https://komarev.com/)ghpvc/?username=Hugoag03&color=blue" alt=""/>
+  <h1>Hola, soy Sebastián Compagnucci <br> y este es mi trabajo como Back-End Developer  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h1>
 </div>
 
 <div align="center">
@@ -38,27 +38,33 @@
 
 ### :man_technologist: Sobre mí :
 
- <br> Desarrollador de Aplicaciones Multiplataforma (DAM) | En la actualidad me siento cómodo trabajando con tecnologías como Java con el framework de Spring Boot, MySQL y WEB (HTML, CSS, JavaScript). Planeo expandir mis tecnologias con el tiempo, como Python y frameworks como Angular.
-
+ <br> **Desarrollador de Aplicaciones Multiplataforma** (DAM) | En la actualidad me siento cómodo trabajando con las tecnologías que menciono más abajo.
+ <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes como C, C++, Python y frameworks como Angular, FastAPI Django..
+<br> 
  :telescope: Actualmente estoy trabajando de forma independiente y desarrollando proyectos propios.<br>
- 
+ <br> 
 
 - 💻 **Tecnologías Fuertes:** 
     - Lenguajes: Java, HTML, CSS, JS, TS...
     - Frameworks: Spring Boot...
     - Bases de Datos: MySQL, SQL Server...
     - Herramientas: Git, GitHub, Android, Unity, VS Code, IntelliJ, NetBeans, Sistemas Operativos (Linux, Windows GNU Bash)...
+<br> 
 
 - 🌱 **Siempre Aprendiendo:** 
     - Estoy comprometido con el aprendizaje continuo y la mejora constante. Explorando nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el mundo del desarrollo de software.
+   <br> 
 - 🚀 **Proyectos en GitHub:** 
     - Mis proyectos más destacados se encuentran en mis repositorios de GitHub, donde trabajo en una variedad de proyectos que van desde aplicaciones web hasta soluciones de backend y scripts automatizados.
+    <br> 
 - 📫 **¡Conectemos!** 
     - Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. Si tenes alguna idea interesante o simplemente quieres charlar sobre tecnología.
-- **Contactame** [![Linkedin Badge](https://img.shields.io/badge/-Sebasitan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-compagnucci/)
+    
+       
+<br> 
 
-
-- Gracias por visitar mi perfil. 
+ Gracias por tu tiempo.<br> 
++ **Mi perfil de LinkedIn**              --->    [![Linkedin Badge](https://img.shields.io/badge/-Sebasitan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-compagnucci/)
 
 ---
 
