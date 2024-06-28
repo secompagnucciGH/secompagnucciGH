@@ -6,7 +6,7 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hugoag03&color=blue" alt=""/>
-  <h1>Hola, soy Sebastián Compagnucci <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br> estos son algunos de mis proyectos y tecnologías en las que trabajo como Back-End Developer </h1>
+  <h1>Algunos de mis proyectos y tecnologías en las que trabajo como Back-End Developer </h1>
 </div>
 
 <div align="center">
@@ -39,7 +39,7 @@
 ### :man_technologist: Sobre mí :
 
  <br> **Desarrollador de Aplicaciones Multiplataforma** (DAM) | En la actualidad me siento cómodo trabajando con las tecnologías que menciono más abajo.
- <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes como C, C++, Python y frameworks como Angular, FastAPI Django..
+ <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes como Kotlin, Python y frameworks como Angular, FastAPI Django..
 <br> 
  :telescope: Actualmente estoy trabajando de forma independiente y desarrollando proyectos propios.<br>
  <br> 
@@ -48,14 +48,13 @@
     - Lenguajes: Java, HTML, CSS, JS, TS...
     - Frameworks: Spring Boot...
     - Bases de Datos: MySQL, SQL Server...
-    - Herramientas: Git, GitHub, Android, Unity, VS Code, IntelliJ, NetBeans, Sistemas Operativos (Linux, Windows GNU Bash)...
+    - Herramientas: Git, GitHub, Android, VS Code, IntelliJ, NetBeans, Sistemas Operativos (Linux, Windows GNU Bash)...
 <br> 
 
-- 🌱 **Siempre Aprendiendo:** 
-    - Estoy comprometido con el aprendizaje continuo y la mejora constante. Explorando nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día con las últimas tendencias en el mundo del desarrollo de software.
+- 🌱 **Mi Enfoque:** 
+    - Aunque prioricé mi desarrollo en el BACK-END, especialmente en Java, con SpringBoot y base de datos, estoy comprometido con el aprendizaje continuo y la mejora constante. Con capacidad de explorar nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día, sin problema.
    <br> 
-- 🚀 **Proyectos en GitHub:** 
-    - Los proyectos que se encuentran en mis repositorios de GitHub, donde trabajo en una variedad de aspectos que van desde aplicaciones web hasta soluciones de backend y scripts automatizados, que subo ya sea para mostrar mi trabajo a la comunidad como para un seguimiento y organización personal.
+
     <br> 
 - 📫 **¡Conectemos!** 
     - Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. Si tenes alguna idea interesante o simplemente quieres charlar sobre tecnología.
