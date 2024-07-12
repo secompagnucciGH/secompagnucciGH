@@ -39,7 +39,7 @@
 ### :man_technologist: Sobre mí :
 
  <br> **Desarrollador de Aplicaciones Multiplataforma** (DAM) | En la actualidad me siento cómodo trabajando con las tecnologías que menciono más abajo.
- <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes como Kotlin, Python y frameworks como Angular, FastAPI Django..
+ <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes que me parecen interesantes, como Kotlin, Python y frameworks como Angular, FastAPI Django..
 <br> 
  :telescope: Actualmente estoy trabajando de forma independiente y desarrollando proyectos propios.<br>
  <br> 
@@ -52,7 +52,7 @@
 <br> 
 
 - 🌱 **Mi Enfoque:** 
-    - Aunque prioricé mi desarrollo en el BACK-END, especialmente en Java, con SpringBoot y base de datos, estoy comprometido con el aprendizaje continuo y la mejora constante. Con capacidad de explorar nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día, sin problema.
+    - Aunque mi desarrollo se centre en el BACK-END, especialmente en Java, con SpringBoot y base de datos, estoy comprometido con el aprendizaje continuo y la mejora constante. Con capacidad de explorar nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día, sin problema.
    <br> 
 
     <br> 
