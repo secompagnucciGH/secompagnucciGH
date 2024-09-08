@@ -45,10 +45,14 @@
  <br> 
 
 - 💻 **Tecnologías Fuertes:** 
-    - Lenguajes: Java, HTML, CSS, JS, TS...
-    - Frameworks: Spring Boot...
-    - Bases de Datos: MySQL, SQL Server...
-    - Herramientas: Git, GitHub, Android, VS Code, IntelliJ, NetBeans, Sistemas Operativos (Linux, Windows GNU Bash)...
+-STACK: Java, Kotlin, JavaScript, TypeScript, HTML, CSS.
+-SEGURIDAD:SpringSecurity, OAuth2 
+-PRUEBAS:  JUnit, Postman
+-CLOUD:  Docker, Kubernetes
+
+-FRAMEWORK: Spring Boot & Spring
+-BASE DE DATOS: MySQL, SQL Server.
+-HERRAMIENTAS: Git, GitHub, Linux, Android, IntelliJ, VSCode, Jenkins...
 <br> 
 
 - 🌱 **Mi Enfoque:** 
