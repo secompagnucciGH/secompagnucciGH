@@ -46,12 +46,19 @@
 
 - 💻 **Tecnologías Fuertes:** 
     - HABILIDADES Y PRINCIPALES TECNOLOGÍAS
-    -STACK: Java, Kotlin, JavaScript, TypeScript, HTML, CSS.
+   
+ -STACK: Java, Kotlin, JavaScript, TypeScript, HTML, CSS.
+
     -SEGURIDAD:SpringSecurity, OAuth2 
+
     -PRUEBAS:  JUnit, Postman
+
     -CLOUD:  Docker, Kubernetes
+
     -FRAMEWORK: Spring Boot & Spring
+
     -BASE DE DATOS: MySQL, SQL Server.
+
     -HERRAMIENTAS: Git, GitHub, Linux, Android, IntelliJ, VSCode, Jenkins...
 <br> 
 
