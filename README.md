@@ -45,15 +45,16 @@
  <br> 
 
 - 💻 **Tecnologías Fuertes:** 
--STACK: Java, Kotlin, JavaScript, TypeScript, HTML, CSS.
--SEGURIDAD:SpringSecurity, OAuth2 
--PRUEBAS:  JUnit, Postman
--CLOUD:  Docker, Kubernetes
-
--FRAMEWORK: Spring Boot & Spring
--BASE DE DATOS: MySQL, SQL Server.
--HERRAMIENTAS: Git, GitHub, Linux, Android, IntelliJ, VSCode, Jenkins...
+    - HABILIDADES Y PRINCIPALES TECNOLOGÍAS
+    -STACK: Java, Kotlin, JavaScript, TypeScript, HTML, CSS.
+    -SEGURIDAD:SpringSecurity, OAuth2 
+    -PRUEBAS:  JUnit, Postman
+    -CLOUD:  Docker, Kubernetes
+    -FRAMEWORK: Spring Boot & Spring
+    -BASE DE DATOS: MySQL, SQL Server.
+    -HERRAMIENTAS: Git, GitHub, Linux, Android, IntelliJ, VSCode, Jenkins...
 <br> 
+
 
 - 🌱 **Mi Enfoque:** 
     - Aunque mi desarrollo se centre en el BACK-END, especialmente en Java, con SpringBoot y base de datos, estoy comprometido con el aprendizaje continuo y la mejora constante. Con capacidad de explorar nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día, sin problema.
