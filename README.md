@@ -44,8 +44,7 @@
  :telescope: Actualmente estoy trabajando de forma independiente y desarrollando proyectos propios.<br>
  <br> 
 
-- 💻 **Tecnologías Fuertes:** 
-    - HABILIDADES Y PRINCIPALES TECNOLOGÍAS
+- 💻 **Tecnologías Fuertes:**
     - STACK: Java, Kotlin, JavaScript, HTML, CSS, TypeScript.
     - SECURITY: SpringSecurity, OAuth2
     - TESTING: JUnit, Postman. TDD.
