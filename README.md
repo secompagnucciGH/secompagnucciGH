@@ -6,69 +6,66 @@
     </a>
   </div>
   <img src="https://komarev.com/ghpvc/?username=Hugoag03&color=blue" alt=""/>
-  <h1>Algunos de mis proyectos y tecnologías en las que trabajo como Back-End Developer </h1>
-</div>
-
-<div align="center">
-  <img src="Mastermind.gif" width="700" height="350"/>
+  <h1>Ingeniería de Redes, automatización y optimización de procesos | Back-End Developer</h1>
 </div>
 
 ---
 
-### :hammer_and_wrench: Conocimiento en lenguajes y herramientas de desarrollo :
+### 🧑‍💻 About Me
 
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="SpringBoot" alt="SpringBoot" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="55" height="55"/>&nbsp; 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" title="JUnit" alt="Postman" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VisualStudioCode" alt="VisualStudioCode" width="55" height="55"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="55" height="55"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="70" height="70"/>&nbsp; 
-  
-</div>
+Hola! Soy Sebastián Compagnucci, me dedico a tomar decisiones, implementar sistemas y nuevas configuraciones relacionadas a la ingenieria de redes y el desarrollo de software, priorizo la automatización de grandes infraestructuras, monitoreo, scripting y desarrollo backend.  
+Me apasiona trabajar en la estabilidad de los sistemas, crear herramientas internas que simplifiquen tareas y aplicar la lógica de programación en el día a día.
+
+- 🚀 Me especializo en **infraestructura, scripting, automatización y desarrollo de aplicaciones backend.**
+- 🧠 Siempre abierto a nuevos desafíos y tecnologías: Python, Go, SpringBoot, Kubernetes, monitoreo, etc.
+- 
+### :hammer_and_wrench: Tecnologías y Herramientas que uso con frecuencia
+---
+
+#### 💻 Back-End
+
+| Java | Kotlin | Go | Python | SpringBoot | REST API | JUnit |
+|------|--------|----|--------|--------------|-----------|--------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" width="50"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/go/go-original-wordmark.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/Python_logo_01.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" width="50"/> | 🧩 | <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" width="50"/> |
 
 ---
 
-### :man_technologist: Sobre mí :
+#### 🌐 Front-End
 
- <br> **Desarrollador de Aplicaciones Multiplataforma** (DAM) | En la actualidad me siento cómodo trabajando con las tecnologías que menciono más abajo.
- <br>Estoy en actual expansión de mis tecnologias **para un stack más completo**, en lenguajes que me parecen interesantes, como Kotlin, Python y frameworks como Angular, FastAPI Django..
-<br> 
- :telescope: Actualmente estoy trabajando de forma independiente y desarrollando proyectos propios.<br>
- <br> 
-
-- 💻 **Tecnologías Fuertes:**
-    - STACK: Java, Kotlin, JavaScript, HTML, CSS, TypeScript.
-    - SECURITY: SpringSecurity, OAuth2
-    - TESTING: JUnit, Postman. TDD.
-    - CLOUD: Docker, Kubernetes
-    - FRAMEWORK: Spring Boot & Spring
-    - DATABASE: MySQL, SQL Server.
-    - TOOLS: Git, GitHub, Linux, Android, IntelliJ, VsCode, Jenkins, Agile y Scrum.
-<br> 
-
-
-- 🌱 **Mi Enfoque:** 
-    - Aunque mi desarrollo se centre en el BACK-END, especialmente en Java, con SpringBoot y base de datos, estoy comprometido con el aprendizaje continuo y la mejora constante. Con capacidad de explorar nuevas tecnologías y técnicas para mejorar mis habilidades y mantenerme al día, sin problema.
-   <br> 
-
-    <br> 
-- 📫 **¡Conectemos!** 
-    - Estoy siempre abierto a nuevas oportunidades de colaboración y conexiones en la comunidad de desarrollo de software. Si tenes alguna idea interesante o simplemente quieres charlar sobre tecnología.
-    
-       
-<br> 
-
- Gracias por tu tiempo.<br> 
-+ **Mi perfil de LinkedIn**              --->    [![Linkedin Badge](https://img.shields.io/badge/-Sebasitan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-compagnucci/)
+| HTML5 | CSS3 | JavaScript | TypeScript |
+|-------|------|------------|-------------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="50"/> |
 
 ---
 
+#### 🛠️ Herramientas de Desarrollo
 
+| Git | IntelliJ | VS Code | MySQL | MongoDB |
+|-----|----------|---------|--------|----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" width="50"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" width="50"/> |
+
+---
+
+#### ☁️ DevOps & Infraestructura
+
+| Docker | Kubernetes | Proxmox | XenOrchestra | Bash | Linux |  Prometheus |
+|--------|------------|---------|-------------- |------|--------|-----------|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" width="60"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/2109px-Kubernetes_logo_without_workmark.svg.png" width="50"/> | <img src="https://cdn.edi-static.fr/image/upload/c_scale,dpr_auto,f_auto,q_auto,w_auto/c_limit,w_auto/v1/Img/BREVE/2024/5/460312/Veeam-finalise-support-Proxmox-alternative-VMware-F.png" width="60"/> |<img src="https://miro.medium.com/v2/resize:fit:570/1*5uI09qDsCYntxVkXDrks4g.png" width="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" width="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" width="50"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Prometheus_software_logo.svg/1200px-Prometheus_software_logo.svg.png" width="50"/> |
+
+---
+
+#### 📡 Networking & Monitoreo
+
+| Cisco | Huawei | Mikrotik | ZTE | Grafana | Zabbix | Wireshark |
+|-------|--------|----------|-----|---------|--------|------------|
+| <img src="https://cdn4.iconfinder.com/data/icons/flat-brand-logo-2/512/cisco-512.png" width="55"/> | <img src="https://cdn.worldvectorlogo.com/logos/huawei.svg" width="55"/> | <img src="https://raw.githubusercontent.com/Vitexus/WinBox.deb/master/project-logo.png" width="55"/> | <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/ZTE_logo.svg/2560px-ZTE_logo.svg.png" width="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg" width="50"/> | <img src="https://www.myqnap.org/wp-content/uploads/zabbix-logo.png" width="60"/> | <img src="https://preview.redd.it/custom-wireshark-icon-because-the-current-one-is-very-bad-v0-dxk87rvwzjmc1.png?auto=webp&s=29952f19fdeb8c85493bdb04265988057bd54e0b" width="60"/> |
+
+### 
+---
+
+### 🤝 ¿Conectamos?
+Estoy siempre abierto a nuevas colaboraciones, ideas o proyectos donde pueda aportar tanto desde lo técnico como lo estratégico.
+
+[![Linkedin Badge](https://img.shields.io/badge/-Sebastián-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-compagnucci/)
+
+---
